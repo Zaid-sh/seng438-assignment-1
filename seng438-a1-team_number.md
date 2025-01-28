@@ -4,10 +4,10 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Mohammed Zaid Shaikh                |
+| Alexander Lai              |
+| Odin Fox               |
+| Aidan Gaede-Janke               |
 
 
 **Table of Contents**
@@ -51,7 +51,7 @@ Text…
 
 Text…
 
-# How the pair testing was managed and team work/effort was divided 
+# How the pair testing was managed and team work/effort was divided
 
 Text…
 
