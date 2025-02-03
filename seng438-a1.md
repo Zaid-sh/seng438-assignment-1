@@ -1,7 +1,7 @@
 **SENG 438 - Software Testing, Reliability, and Quality**
 >   **Assignment \#1**
 >   **Introduction to Testing and Defect (Bug) Tracking**
->   Instructor: 
+>   Instructor:
 >   -   Dr. Kangsoo Kim (kangsoo.kim@ucalgary.ca)
 >   Department of Electrical and Software Engineering
 >   University of Calgary
@@ -21,7 +21,7 @@ system. During the exploratory testing phase, students will be free to test the 
 the manual scripted testing phase, they will be required to use a predefined test suite to test the SUT. Finally, students will perform some simple regression testing on an updated version of the system (corrected by imaginary developers in response to a list of defect reports), and record differing system behavior in the defect tracking system appropriately.
 
 # Objectives
-This lab is designed to provide students with a basic understanding of software testing concepts. By participating in this lab, students will gain:
+This lab is designed to provide students with a basic understanding of software testing concepts. By participating in this lab, students will gain:board
 
 -   Practical experience in testing a software system
 -  Knowledge of the differences between exploratory, manual scripted, and regression testing
@@ -68,7 +68,7 @@ To familiarize yourself with these tools, you can use the following source or an
     - [Change basic project to (agile, scrum or CMMI)](https://learn.microsoft.com/en-us/azure/devops/organizations/settings/work/change-process-basic-to-agile?view=azure-devops)
     - [How to report bug as a work item I](https://www.azuredevopsguide.com/creating-a-bug-in-azure-devops/)
     - [How to report bug as a work item I](https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/manage-bugs?view=azure-devops#bug-work-item-type)
-    
+
 
 # Lab Materials
 In addition to the lab document, which is to be submitted in a markdown file format, each lab in this course will require additional materials. These materials, known as lab artifacts, may include items such as the software system under test (SUT), source code, and other relevant files. It is important to submit all required lab artifacts as specified in each lab's instructions to ensure proper evaluation of your lab work.
@@ -93,18 +93,18 @@ bank account(s).
     -  Card Number: 1 PIN: 42 Available Accounts: Checking and Savings
 
     -  Card Number: 2 PIN: 1234 Available Accounts: Checking and Money Market Note:
-    
+
     Both of these cards access the same checking account.
 
     The initial balances are: Checking: \$100 Savings: \$1,000 Money Market: \$5,000
 
 # Instructions
 
-This section outlines the steps required to complete the lab. 
+This section outlines the steps required to complete the lab.
 
 ## Familiarization with the ATM System
 
-1. Run the JAR file ATM System - Lab 1 Version 1.0.jar to display the GUI 
+1. Run the JAR file ATM System - Lab 1 Version 1.0.jar to display the GUI
 
 2. Turn on the system using the “On” button.
 
@@ -159,7 +159,7 @@ Keep in mind that this does not need to necessarily be the best plan, as long as
 
 ## Regression Testing (Verification of Defect Fixes)
 
-This section is to be performed as a group. The defects reported in the twoprevious stages of testing can be divided among the 
+This section is to be performed as a group. The defects reported in the twoprevious stages of testing can be divided among the
 group members and can beretested individually.
 
 1.  Download the updated version (version 1.1) of the ATM simulation system from blackboard. This version of the system has been partially fixed by imaginary developers based on the defect reports previously existing.
@@ -180,15 +180,15 @@ Within your group, you should now each be familiar with the main features of a b
 For this assignment, you need to submit one Excel/PDF/Markdown file and the lab report and demo your findings in the lab.
 
 ## Demo (25%)
-The demo session for this lab serves several purposes: 
-- preparing students for technical presentations, 
-- providing an early assessment of work to improve quality, and 
-- ensuring equal participation among team members. 
+The demo session for this lab serves several purposes:
+- preparing students for technical presentations,
+- providing an early assessment of work to improve quality, and
+- ensuring equal participation among team members.
 
-All members must attend the lab and demonstrate examples of tests run and bugs found for each testing phase (exploratory, scripted, and regression). 
-Each team member should show at least one passing and one failing test, as well as the corresponding Backlog entry. 
+All members must attend the lab and demonstrate examples of tests run and bugs found for each testing phase (exploratory, scripted, and regression).
+Each team member should show at least one passing and one failing test, as well as the corresponding Backlog entry.
 
-Failure to attend or demonstrate as required may result in loss of marks for the entire assignment. 
+Failure to attend or demonstrate as required may result in loss of marks for the entire assignment.
 
 Note that opportunities for improvement will continue until the deadline.
 
